@@ -4,6 +4,10 @@
    "cell_type": "markdown",
    "id": "dfcfd44f",
    "metadata": {},
+   "source": [
+    "# A Jupyter-based Data Explorer using iPyWidgets\n",
+    "\n"
+   ]
   },
   {
    "cell_type": "code",

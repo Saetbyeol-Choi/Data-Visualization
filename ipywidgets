@@ -11,6 +11,32 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "id": "bef9a6bb",
+   "metadata": {},
+   "source": [
+    "Your job is to build an interactive Jupyter-based data explorer<br>\n",
+    "It should plot 2 columns from this dataframe, one on the x-axis and another column on the y-axis.<br>\n",
+    "In other words, one column will be used for the x-coordinates, and the other column will be the y-coordinates of the markers in the plot.\n",
+    "\n",
+    " \n",
+    "\n",
+    "Your notebook should have ipywidgets to do the following:<br>\n",
+    "\n",
+    "Select the columns to plot on the x- and y-axes:<br>\n",
+    "Choose a linear or log scale for each axis:<br>\n",
+    "Choose the year to plot:<br>\n",
+    "[BONUS] Color markers by the Region of the country:<br>\n",
+    "\n",
+    " \n",
+    "\n",
+    "Deliverables (upload)::\n",
+    "\n",
+    "Jupyter Notebook file:<br>\n",
+    "Screenshot of your dashboard (JPG, PNG)"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": 1,
    "id": "665269ba-ae74-44d5-abe6-d8d628586325",

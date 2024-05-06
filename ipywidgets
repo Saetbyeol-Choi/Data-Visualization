@@ -3,8 +3,7 @@
   {
    "cell_type": "markdown",
    "id": "dfcfd44f",
-   "metadata": {},
-   "source": "# Data Explorer using iPyWidgets\n"
+   "metadata": {}
   },
   {
    "cell_type": "code",
